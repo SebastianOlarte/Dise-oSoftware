@@ -19,4 +19,4 @@ El patrón iterator permite el acceso al contenido de una estructura sin exponer
 
 El patrón Iterador permite por tanto diferentes tipos de recorrido de un agregado y varios recorridos simultáneos, simplificando la interfaz del agregado.
 
-En los directorios Itrartor1 e Iterartor2 se pueden encontrar ejemplos de dos aplicaciones de este patron de diseño.
+En los directorios Itrerator1 e Iterartor2 se pueden encontrar ejemplos de dos aplicaciones de este patron de diseño.
